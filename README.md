@@ -1,5 +1,7 @@
 # SharpTools Custom Tile POC/Demo
 
+Testing commit merging. 
+
 ## Overview
 This is a proof-of-concept project to demo what can you do with the SharpTools Custom Tile feature. This is not an offical integration with other service(s), but just to show the integration possibilities.
 
